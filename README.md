@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harris+Han;Blockchain+Developer+%40+Paydify;Building+the+Future+of+Crypto+Payments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harris+Han;Blockchain+Developer+%40+Paydify;Building+the+Future+of+Crypto+Payments)](https://git.io/typing-svg)
 
 <br/>
 
