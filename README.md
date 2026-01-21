@@ -8,7 +8,6 @@
 <!-- 社交链接 -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarrisHan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HarrisHan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HarrisHan)
 [![Website](https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrishan.github.io)
 
 </div>
