@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Harris Han — AI tooling, Web3 and mobile</title>
+  <desc id="desc">Building useful tools, onchain and on device. Dark editorial banner with mint geometric blocks.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#101916"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <circle cx="58" cy="57" r="5" fill="#a7f3c8"/>
+    <text x="76" y="63" fill="#a7f3c8" font-size="16" letter-spacing="3">HARRISHAN / BUILDER</text>
+    <text x="52" y="153" fill="#f0f6f2" font-size="70" font-weight="700" letter-spacing="-3">Harris Han.</text>
+    <text x="56" y="206" fill="#c4d2cb" font-size="27">Building useful tools.</text>
+    <text x="56" y="244" fill="#c4d2cb" font-size="27">Onchain. On device. With AI.</text>
+    <text x="56" y="310" fill="#8ca69a" font-family="SFMono-Regular, Consolas, monospace" font-size="15">AI TOOLING / WEB3 / MOBILE</text>
+  </g>
+  <g transform="translate(855 64)">
+    <rect width="125" height="125" rx="22" fill="#a7f3c8"/>
+    <path d="M38 45L20 62L38 79M87 45L105 62L87 79M72 36L54 88" fill="none" stroke="#16372a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="139" width="125" height="125" rx="22" fill="#203d30"/>
+    <path d="M178 40L224 40L240 63L224 86L178 86L163 63Z M178 40L193 63L178 86M224 40L209 63L224 86M193 63H209" fill="none" stroke="#a7f3c8" stroke-width="3" stroke-linejoin="round"/>
+    <rect y="139" width="264" height="91" rx="22" fill="#1b2b23" stroke="#355342"/>
+    <circle cx="31" cy="184" r="6" fill="#a7f3c8"/>
+    <text x="49" y="191" font-family="SFMono-Regular, Consolas, monospace" font-size="19" fill="#d9eee1">idea → build → ship</text>
+  </g>
+</svg>
