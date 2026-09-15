@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Harris Han. Building useful tools. Onchain. On device. With AI." />
+  <img src="./assets/header.svg" width="100%" alt="Harris Han. Smart Contract &amp; Web3 Engineer. Backend systems. Mobile apps." />
 </p>
 
 <p align="center">
   <a href="https://harrishan.github.io">Website</a> &nbsp; / &nbsp;
-  <a href="https://twitter.com/HarrisHan">X / Twitter</a> &nbsp; / &nbsp;
+  <a href="https://x.com/harris913957163">X / @harris913957163</a> &nbsp; / &nbsp;
   <a href="https://github.com/HarrisHan?tab=repositories">All repositories ↗</a>
 </p>
 
-I build across **AI tooling, Web3, and mobile** — from agent skills and developer workflows to Solidity contracts and native iOS interfaces.
+I’m a **smart contract and Web3 engineer**, with experience in **backend and app development**. I build Solidity contracts, backend services, and mobile applications — connecting onchain logic with the systems and interfaces people use.
 
 ### Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/HarrisHan/ai-daily-digest">AI Daily Digest ↗</a></h3>
-<p>An agent-native workflow that turns 92 curated tech blogs into a daily AI digest.</p>
-<p><code>JavaScript</code> <code>Agent skills</code> <code>RSS</code></p>
+<h3><a href="https://github.com/HarrisHan/vamm-perp-dex">vAMM Perpetual DEX ↗</a></h3>
+<p>A leveraged trading protocol built around a virtual automated market maker.</p>
+<p><code>Solidity</code> <code>DeFi</code> <code>Perpetuals</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/HarrisHan/8bitdo-micro-karabiner">A gamepad for AI work ↗</a></h3>
-<p>Turning the 8BitDo Micro into a Mac productivity pad for dictation, Claude Code, and terminal navigation.</p>
-<p><code>macOS</code> <code>Karabiner</code> <code>Workflow</code></p>
+<h3><a href="https://github.com/HarrisHan/plasma-one-account">Plasma One Account ↗</a></h3>
+<p>Verified source and a concise explainer for the Plasma One user account contract, based on Biconomy Nexus v1.2.0.</p>
+<p><code>Solidity</code> <code>Smart accounts</code> <code>Web3</code></p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ I build across **AI tooling, Web3, and mobile** — from agent skills and develo
 </tr>
 </table>
 
-Also exploring: [Web3 Daily Digest](https://github.com/HarrisHan/web3-daily-digest) · [ClawBox](https://github.com/HarrisHan/clawbox) · [vAMM Perpetual DEX](https://github.com/HarrisHan/vamm-perp-dex)
+More projects: [PriceCalendar](https://github.com/HarrisHan/PriceCalendar) · [ClawBox](https://github.com/HarrisHan/clawbox) · [AI Daily Digest](https://github.com/HarrisHan/ai-daily-digest)
 
 ### Toolbox
 
@@ -47,7 +47,8 @@ Also exploring: [Web3 Daily Digest](https://github.com/HarrisHan/web3-daily-dige
 | :--- | :--- |
 | **Onchain** | Solidity · Ethereum · Solana · BNB Chain · Ethers.js · Hardhat |
 | **Mobile** | Swift · iOS · Flutter · Dart |
-| **Applications** | TypeScript · React · Next.js · Node.js · Go · Java · Rust |
+| **Backend** | Go · Java · Node.js · TypeScript · Rust |
+| **Frontend** | React · Next.js · TypeScript |
 | **Infrastructure** | PostgreSQL · Redis · Docker · AWS |
 
 ### A little every day
