@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://harrishan.github.io">Website</a> &nbsp; / &nbsp;
-  <a href="https://x.com/harris913957163">X / @harris913957163</a> &nbsp; / &nbsp;
   <a href="https://github.com/HarrisHan?tab=repositories">All repositories ↗</a>
 </p>
 
