@@ -1,26 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Harris Han — Smart Contract and Web3 Engineer</title>
-  <desc id="desc">Smart contracts, Web3, backend systems, and mobile apps. Dark editorial banner with mint geometric blocks.</desc>
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
-  </defs>
-  <rect width="1200" height="360" rx="24" fill="#101916"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
-    <circle cx="58" cy="57" r="5" fill="#a7f3c8"/>
-    <text x="76" y="63" fill="#a7f3c8" font-size="16" letter-spacing="3">HARRISHAN / ENGINEER</text>
-    <text x="52" y="153" fill="#f0f6f2" font-size="70" font-weight="700" letter-spacing="-3">Harris Han.</text>
-    <text x="56" y="206" fill="#c4d2cb" font-size="27">Smart Contract &amp; Web3 Engineer.</text>
-    <text x="56" y="244" fill="#c4d2cb" font-size="27">Backend systems. Mobile apps.</text>
-    <text x="56" y="310" fill="#8ca69a" font-family="SFMono-Regular, Consolas, monospace" font-size="15">SMART CONTRACTS / WEB3 / BACKEND / APPS</text>
-  </g>
-  <g transform="translate(855 64)">
-    <rect width="125" height="125" rx="22" fill="#a7f3c8"/>
-    <path d="M38 45L20 62L38 79M87 45L105 62L87 79M72 36L54 88" fill="none" stroke="#16372a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="139" width="125" height="125" rx="22" fill="#203d30"/>
-    <path d="M178 40L224 40L240 63L224 86L178 86L163 63Z M178 40L193 63L178 86M224 40L209 63L224 86M193 63H209" fill="none" stroke="#a7f3c8" stroke-width="3" stroke-linejoin="round"/>
-    <rect y="139" width="264" height="91" rx="22" fill="#1b2b23" stroke="#355342"/>
-    <circle cx="31" cy="184" r="6" fill="#a7f3c8"/>
-    <text x="49" y="191" font-family="SFMono-Regular, Consolas, monospace" font-size="19" fill="#d9eee1">idea → build → ship</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Harris Han — Smart Contract and Web3 Engineer</title>
+<desc id="desc">Terminal-inspired profile. Solidity and Web3, backend systems, and mobile apps.</desc>
+<rect x="1" y="1" width="1198" height="438" rx="18" fill="#171717" stroke="#383633" stroke-width="2"/>
+<path d="M1 55H1199" stroke="#383633"/>
+<g fill="#68635a"><circle cx="30" cy="28" r="5"/><circle cx="49" cy="28" r="5"/><circle cx="68" cy="28" r="5"/></g>
+<g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
+<text x="94" y="33" font-size="14" fill="#aaa397">harrishan / engineer</text>
+<text x="1158" y="33" text-anchor="end" font-size="13" fill="#aaa397">~/profile</text>
+<text x="48" y="105" font-size="18" fill="#edba62">$ whoami</text>
+<text x="44" y="178" font-size="62" font-weight="700" letter-spacing="-3" fill="#f5f0e8">Harris Han<tspan fill="#edba62">_</tspan></text>
+<text x="48" y="225" font-size="25" fill="#edba62">Smart Contract &amp; Web3 Engineer</text>
+<text x="48" y="266" font-size="19" fill="#c0b9ad">Onchain logic. Backend systems. Mobile apps.</text>
+<text x="48" y="336" font-size="16" fill="#aaa397">Solidity / Go / Java / TypeScript / Swift</text>
+<path d="M48 365H1152" stroke="#383633"/>
+<text x="48" y="404" font-size="14" fill="#aaa397">01 CONTRACTS</text>
+<text x="304" y="404" font-size="14" fill="#aaa397">02 BACKEND</text>
+<text x="544" y="404" font-size="14" fill="#aaa397">03 MOBILE</text>
+<text x="1152" y="404" text-anchor="end" font-size="14" fill="#edba62">CODE → BUILD → SHIP</text>
+</g>
+<g transform="translate(909 104)" fill="none" stroke="#edba62" stroke-width="2">
+<path d="M80 0L155 43V129L80 172L5 129V43Z" stroke-opacity=".3"/>
+<path d="M80 20L138 53V119L80 152L22 119V53Z" stroke-opacity=".65"/>
+<path d="M22 53L80 86L138 53M80 86V152M80 20V86L22 119M80 86L138 119" stroke-opacity=".35"/>
+<path d="M52 70L35 86L52 102M108 70L125 86L108 102M89 62L71 110" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="80" cy="0" r="4" fill="#edba62" stroke="none"/>
+<circle cx="155" cy="129" r="4" fill="#edba62" stroke="none"/>
+<circle cx="5" cy="129" r="4" fill="#edba62" stroke="none"/>
+</g>
 </svg>
