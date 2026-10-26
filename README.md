@@ -10,6 +10,7 @@ I’m a **smart contract and Web3 engineer** who also builds **backend services 
 
 | Project | What’s inside | Stack |
 | :--- | :--- | :--- |
+| **[Claude Narrator ↗](https://github.com/HarrisHan/claude-narrator)** | Hear Claude Code replies aloud. Native macOS companion with natural Chinese voices. | `Swift` `macOS` `AI tools` |
 | **[vAMM Perpetual DEX ↗](https://github.com/HarrisHan/vamm-perp-dex)** | Leveraged trading protocol built around a virtual AMM. | `Solidity` `DeFi` |
 | **[Safe Whitelist Guard ↗](https://github.com/HarrisHan/safe-whitelist-guard)** | Per-Safe recipient restrictions with ERC20 calldata decoding, designed for X Layer. | `Solidity` `Safe` |
 | **[Plasma One Account ↗](https://github.com/HarrisHan/plasma-one-account)** | Verified account-contract source and an explainer for Biconomy Nexus v1.2.0. | `Solidity` `Smart accounts` |
